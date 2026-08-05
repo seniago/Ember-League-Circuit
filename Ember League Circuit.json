@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1785098454,
+	"Version": 1785964855,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -642,7 +642,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -1772,7 +1772,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"56"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1965,7 +1965,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2984,7 +2984,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"56"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
