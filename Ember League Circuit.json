@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1792763434,
+	"Version": 1792775139,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2354,7 +2354,9 @@
 				2,
 				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
